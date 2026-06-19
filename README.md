@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=1a69fc&width=435&lines=I'M+DENIS+JESUS;Systems+Development+Technician)](https://git.io/typing-svg)
 
 <div>
-<a href="https://github.com/MauricioScheffer">
+<a href="https://github.com/Denio-Jesus2005">
 <img loading="lazy" height="170em" src="https://github-readme-stats.vercel.app/api?username=Denio-Jesus2005&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
 <img loading="lazy" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Denio-Jesus2005&layout=compact&langs_count=7&theme=bear"/>
 </div>
