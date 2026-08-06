@@ -1,10 +1,6 @@
 ## Hi there 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=1a69fc&width=435&lines=I'M+DENIS+JESUS;Systems+Development+Technician)](https://git.io/typing-svg)
-
-<div>
-<a href="https://github.com/Denio-Jesus2005">Jesus2005&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
-</div>
   
 - 🔭 I’m currently working on Lydians Information Systems
 - 🌱 I’m currently learning Systems Analysis and Development - IFSul Sapucaia do Sul
