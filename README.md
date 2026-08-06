@@ -12,7 +12,7 @@
 
 <H2><u>Minhas Skills</u></H2>
 
-**Aplicações e dados**
+**Applications and Datas**
 
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
@@ -26,7 +26,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=TypeScript&logoColor=3178C6)
 ![Visual Basic](https://img.shields.io/badge/-Visual%20Basic-333333?style=flat&logo=.net&logoColor=512BD4)
 
-**Ferramentas de desenvolvimento**
+**DevTools**
 
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
