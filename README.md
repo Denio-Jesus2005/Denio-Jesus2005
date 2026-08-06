@@ -10,7 +10,7 @@
 <br>
 <br>
 
-<H2><u>Minhas Skills</u></H2>
+<H2><u>My Skills</u></H2>
 
 **Applications and Datas**
 
